@@ -1,24 +1,29 @@
 name: Tier management
 
-permissions:
+permissions:actives(request for owners)
   pull-requests: write
   contents: write
       
-on: 
+on: in progress running engines
   issue_comment:
     types: [created, edited]
-
+for organizations teams one heading or Maxis Business Hub,Apple Store Retails,and IT-World Malasian Bhd. from my Business Services.
   pull_request_target:
     types: [opened, reopened]
 
-jobs:
-
-  tier-mgmt:
-    if: github.repository_owner == 'MicrosoftDocs' && github.repository_visibility == 'private'
+jobs: Administrator Network Solutions Services On The My Cybersecurity and Shields IDs from Companies and Goverment Agreement.This platforms on the my Home Land UK Limited Agreements,or some Service from my IDs under Microsoft Corporotions 
+Licenses and My CA Certificates ROOTS Microsoft Serve Services 2019 Registered and compare My CA Certificates ROOTS Global Google Trusted Services and Google Mobile Services 2036-2048 Agreement from 2011 for LLC,LIMITED and PLC Services using.
+Support for Mobile Apps Management Development Services,secure anythings data and component hardware running from any project under progress runnings to taken for releven and original data or content Software Only.Using anything data protections froms my IDs Securities.
+For Microsoft 365 Developer Offices Runnings don't sharring and compares any data using to Microsoft 365 Business Services Agreement for running in the All-In-One Platform Services,but please request permissions for using in the Business Platform from IT-Security Department under Local Goverment Rules or Global and any Regions Goverment Agreement.
+Maybe this issues important using the any devices and stays normally detections component running on the CPU / RAM Management Services.Setting controller stays normally running from primary using before modified any component from this content.Refer issues notifications from system status from my IDs Agreement Monitoring Runnings in Platform.Don't mixes any contents from Facebook inc channels story because this Platform Engines Running All-In-One-Platform Services or Maybe six or seven Software Programs Systems Services Running for Network Solution and Main Companies Headquarters.But,my setup engines running in the my devices private or unknow Rules License Agreement.Do not for sharring any user or others Companies and Organizations because for using to Works and Schools Platform Services and Management Development for Business Services.Please follow up to Perkhidmatan Tempatan Servers Policies/Privacy (Organizations) and Microsoft Policies/Privacy Conditions using.Focus for Protections using.
+  tier-mgmt:Perkhidmatan Tempatan Servers 190612-R.(Or Companies Groups)
+    if: github.repository_owner:Syaifulnizamshamsudin_Developers Software Programs by Perkhidmatan Tempatan Servers-190612-R(OrganizationsTeamsOneHeading) == 'MicrosoftDocs' && github.repository_visibility == 'private'
+    important experiences issues: This Microsoft 365 Docs Services running Private Programs Services for Management Works and Schools Platform or Business Offices.
     uses: MicrosoftDocs/microsoft-365-docs/.github/workflows/Shared-TierManagement.yml@workflows-prod
-    with:
+    with: modifications engines running and upgrades versions primary using,setup some Security Solutions Services from Organizations Services.Please refer problems imformations for services teams because engines running not normally and not understand issues froms "null" services.I'm owners Agreement "null" Services Developers or Systems Services Under Google inc. or others Companies Groups Services 2011 needs sharring somes experiences for engines running devices setup because after upgrades Business Platforms Services Access in the Works and Schools Engines Running Platform Services for One Devices Component and Hardware Accurates Setting,maybe somes issues "ralat" systems actives for management your Business Platforms Setting from my "null" Services IDs or Goverment Security Services.But please researching back somes issues from notifications for setup whats important content for using to complecated your systems using.Maybe the word "nol","nil"or "nor" your seeing in the log systems checking,or maybe some problems from visual content,text engines,address uses,or some data not originals and unrelevens inputs shares because issues "null" systems services or Security Services not follow up Standard Protocols Global Cybersecurity Services Agreements Controls.
+    for solutions this services,please checkup back somes content in Business Platform Services Certificates Agreement,or maybe your limited controlling services not complecations for running in the one devices.
       PayloadJson: ${{ toJSON(github) }}
-      EnableWriteSignOff: 1
-      EnableReadOnlySignoff: 1
-    secrets:
+      EnableWriteSignOn: 1
+      EnableReadOnlySignOn: 1
+    secrets: null
       AccessToken: ${{ secrets.GITHUB_TOKEN }}
